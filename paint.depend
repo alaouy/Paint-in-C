@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1334145968 source:d:\projets c\holiday\paint\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"myxy.h"
+	"welcome.h"
+
+1334079324 d:\projets c\holiday\paint\myxy.h
+
+1334078148 source:d:\projets c\holiday\paint\myxy.c
+	<windows.h>
+	"myxy.h"
+
+1334145764 source:d:\projets c\holiday\paint\welcome.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"welcome.h"
+
+1334079324 d:\projets c\holiday\paint\welcome.h
+
+1385331728 source:c:\users\alaouy\downloads\projetc 1ere annee\paint\myxy.c
+	<windows.h>
+	"myxy.h"
+
+1385325804 c:\users\alaouy\downloads\projetc 1ere annee\paint\myxy.h
+
+1385332509 source:c:\users\alaouy\downloads\projetc 1ere annee\paint\welcome.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"welcome.h"
+	"souris.cc"
+
+1385332470 c:\users\alaouy\downloads\projetc 1ere annee\paint\welcome.h
+
+1385560602 source:c:\users\alaouy\downloads\projetc 1ere annee\paint\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utility.h"
+
+1385163534 source:c:\users\alaouy\downloads\projetc 1ere annee\paint\souris.cc
+	<windows.h>
+
+1385163534 c:\users\alaouy\downloads\projetc 1ere annee\paint\souris.cc
+	<windows.h>
+
+1385585374 source:c:\users\alaouy\downloads\projetc 1ere annee\paint\utility.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"utility.h"
+	"souris.cc"
+
+1385332470 c:\users\alaouy\downloads\projetc 1ere annee\paint\utility.h
+
