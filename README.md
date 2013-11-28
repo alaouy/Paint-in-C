@@ -1,1 +1,1 @@
-# Paint In C [![Build Status]](#)
+# Paint In C [Build Status]
